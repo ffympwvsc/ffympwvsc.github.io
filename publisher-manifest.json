@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "dc69cd695ce3c57d43949301",
+  "owner": "ffympwvsc",
+  "repo": "ffympwvsc.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "5f9d518c979ae66696fd39a0",
+      "a": "ARK",
+      "b": "首页",
+      "entity": "ARK",
+      "brand": "ARK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a95a5b7a9e45f90ee3b5898c360d7b74209db720c64f6a00aa662b325b2c18e3",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器各有对应客户端，按设备选择即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 ARK",
+          "AI_DESCRIPTION": "，提供按流量与设备数划分的套餐，方便个人、家庭与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从套餐档位到订阅周期，按实际用量匹配更省心。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "按在线设备数与月流量选择档位，避免超量或浪费。",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付适合长期稳定使用的场景。",
+          "AI_FEATURE_TEXT_3": "同一订阅可导入多款客户端，换设备时重新导入即可。",
+          "AI_FEATURE_TITLE_1": "套餐匹配",
+          "AI_FEATURE_TITLE_2": "计费周期",
+          "AI_FEATURE_TITLE_3": "订阅迁移",
+          "AI_GUIDE_INTRO": "先确认需求，再安装客户端并导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "ARK 提供多种档位的加速套餐，覆盖个人到团队的不同设备规模与流量需求。选择合适的订阅后，按设备安装对应客户端并导入配置即可使用。",
+          "AI_HERO_SUBTITLE": "多设备加速方案",
+          "AI_HIGHLIGHT_1": "三种档位覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付与年付灵活切换",
+          "AI_HIGHLIGHT_3": "多客户端订阅导入",
+          "AI_PLANS_INTRO": "对比各档位的设备数与流量，结合使用人数与预算选择即可。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量预估，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端范围，确认符合自己的设备情况。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按客户端文档完成连接配置。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "ARK 加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合一两台设备日常使用，月流量满足网页与短视频；旗舰版适合多设备同时在线和流媒体需求；团队版面向较多设备集中管理。先从自己的设备数量和月流量预估出发选择即可。",
+          "AI_FAQ_ANSWER_2": "每个套餐对同时在线设备数量有不同上限，购买前先确认自己常用的手机、电脑和平板总数。如果需要多台设备同时连接，建议选设备额度更高的档位，避免频繁切换登录。",
+          "AI_FAQ_ANSWER_3": "不同客户端导入订阅的方式并不相同，常见做法是在客户端的订阅或配置菜单中粘贴服务地址，再手动更新节点列表。建议对照所用客户端的帮助文档逐步操作，遇到提示再逐项排查。",
+          "AI_FAQ_ANSWER_4": "年付方案相比月付整体支出更低，适合确定会长期使用的用户。基础版、旗舰版和团队版都提供按年付费选项，可以先按月体验一两个周期，确认稳定后再切换到年付。",
+          "AI_FAQ_ANSWER_5": "团队版提供更高带宽节点和定制路由支持，适合多设备协作或对线路质量要求较高的场景。若只是个人使用，旗舰版在设备数和流媒体解锁上已经比较均衡，不必急于上团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "订阅应该怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c9798a1a0ef77c5289cfa98fe11f7c7edc2c4451e15c2c1f9c2c1741fbef4dd1",
+    "sitemap.xml": "f29528eca38b2343d79116986e542ffbf2ba3411dc5d0b50b9a64a5e00de1700",
+    "robots.txt": "33a282e2c51eb5dba4420552bbc29939e69937e33e4dc7cbdcd997439321301a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0764cdd3dbd2fee489b7da671067fcf63b4dc335cfe612b25e090644c42f8bc1"
+}
